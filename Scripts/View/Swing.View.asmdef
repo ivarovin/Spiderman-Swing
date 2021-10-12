@@ -1,0 +1,15 @@
+{
+    "name": "Swing.View",
+    "references": [
+        "GUID:168ca18788ccd8a41a7bb6f5ccb82c1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
